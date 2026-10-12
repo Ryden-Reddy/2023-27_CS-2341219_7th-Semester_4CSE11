@@ -35,9 +35,9 @@
 - **Certificate ID:** `49139ef583827f834b7c`
 - Issued under the AICTE – EduSkills Virtual Internship programme, supported by EduSkills Academy and listed on the National Internship Portal.
 
-![AICTE EduSkills Certificate](certificates/aicte-eduskills-certificate.png)
+![AICTE EduSkills Certificate](Course_Certificate_1465828.pdf)
 
-📄 [View PDF](certificates/Professional_UI_UX_Design_Web_Prototyping_Virtual_Internship.pdf)
+📄 [View PDF](Professional UI_UX Design & Web Prototyping Virtual Internship.pdf)
 
 ### 2. Internship Credential (EduSkills Academy)
 - **Certificate ID:** `2026-F5A2F7C190`
@@ -45,7 +45,7 @@
 
 ![EduSkills Academy Certificate](certificates/eduskills-academy-certificate.png)
 
-📄 [View PDF](certificates/Course_Certificate_1465828.pdf)
+📄 [View PDF](Professional UI_UX Design & Web Prototyping.webp)
 
 > Both certificates carry a QR code that can be scanned to verify their authenticity.
 
