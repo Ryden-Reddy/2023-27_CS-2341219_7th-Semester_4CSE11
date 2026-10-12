@@ -43,13 +43,8 @@
 - **Certificate ID:** `2026-F5A2F7C190`
 - **Issued on:** 28 July 2026
 
-![EduSkills Academy Certificate](certificates/eduskills-academy-certificate.png)
+![EduSkills Academy Certificate](Professional UI_UX Design & Web Prototyping.webp)
 
-📄 [View PDF](Professional UI_UX Design & Web Prototyping.webp)
-
-> Both certificates carry a QR code that can be scanned to verify their authenticity.
-
----
 
 ## 🧠 What I Learned
 
