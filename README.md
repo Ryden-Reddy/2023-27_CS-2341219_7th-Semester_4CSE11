@@ -72,7 +72,6 @@ Over the 8-week program, I demonstrated proficiency in:
 
 - 🌐 **Portfolio:** [add your portfolio link here]
 - 💼 **LinkedIn:** [add your LinkedIn link here]
-- 🖼️ **Capstone Project (Figma):** [add your Figma file link here]
 
 ---
 
